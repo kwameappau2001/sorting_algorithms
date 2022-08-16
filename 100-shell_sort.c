@@ -1,6 +1,6 @@
 /*
  * File: 100-shell_sort.c
- * Auth: Bright
+ * Auth: Kwame
  */
 
 #include "sort.h"
