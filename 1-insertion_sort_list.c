@@ -1,6 +1,6 @@
 /*
  * File: 1-insertion_sort_list.c
- * Auth: Bright
+ * Auth: Kwame
  */
 
 #include "sort.h"
