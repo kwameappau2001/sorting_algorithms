@@ -1,6 +1,6 @@
 /*
  * File: 3-quick_sort.c
- * Auth: Bright
+ * Auth: Kwame
  */
 
 #include "sort.h"
